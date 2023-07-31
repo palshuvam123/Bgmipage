@@ -1,0 +1,123 @@
+/* body{
+    background-color: red;
+} */
+/* body{
+    padding-left: 15px;
+} */
+/* *{
+    padding:0;
+    margin: 0px;
+}
+
+#navbar{
+    flex-direction: column;
+    margin: -30px -10px;
+    padding:1.8rem;
+    width: 95%;
+}
+
+#navbar ul li a{
+    font-size: 1rem;
+    padding:0px 7px;
+}
+#home{
+    height: 370px;
+    padding: 3px 50px;
+    margin-right: -309px;
+
+    
+    
+
+}
+#home p{
+    font-size: 13px;
+    /* text-align: center; */
+/* }
+.h-primary{
+    font-size: 26px;
+    margin-right: -30px;
+}
+#home::before{
+    height: 480px;
+    width:174%;
+    overflow:hidden;
+    padding:0px 50px;
+    
+    
+
+}
+#home h1{
+    padding-top: 250px;
+    margin:-30px;
+    margin-left: 50px;
+}
+#home  p{
+    /* padding-top: 250px;
+    margin:-30px; 
+    margin-left: 75px;
+}
+
+/* #players{
+    grid-template-columns: repeat(1, 3fr); 
+    width:103%;
+    align-items: center;
+    justify-content: center;
+    grid-gap:2rem;
+}
+
+#teams{
+    flex-wrap: wrap;
+}
+
+#teams img{
+    width:66px;
+    padding:2px 6px;
+    height:auto;
+}
+
+.btn{
+    font-size: 13px;
+    padding:4px 8px;
+    margin-left:100px;
+}
+
+
+#players-container{
+    margin-top: 2rem;
+    margin-right: -280px;
+    margin-left: 30px;
+    padding: 0px -100px;
+}
+
+#teams-container::before{
+    width:143%;
+    height:539px;
+    /* margin-left: 50px; 
+    /* overflow-y:hidden; 
+    padding:0px 90px;
+    
+}
+
+#contact::before{
+    width:149%;
+    margin-top: 3.5rem;
+    height:111%;
+    padding:0px 80px;
+    /* overflow: hidden; 
+}
+
+/* #teams-container{
+    /* margin-right: -200px; 
+}
+
+#contact{
+    /* margin-right: -200px; 
+}
+#teams-container h1{
+    margin-left: 260px;
+}
+
+#teams{
+    flex-direction: row;
+
+}*/
